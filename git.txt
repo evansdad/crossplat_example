@@ -1,0 +1,3 @@
+https://github.com/evansdad/crossplat_example.git
+git@github.com:evansdad/crossplat_example.git
+gh repo clone evansdad/crossplat_example
